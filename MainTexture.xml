@@ -1,0 +1,8 @@
+<texture-regions>
+    <texture name="MainTexture" path="MainTexture.png"/>
+    <region name="CardBack" left="0" top="39" right="37" bottom="76" hotspot-x="0" hotspot-y="39"/>
+    <region name="Highlight" left="39" top="39" right="79" bottom="79" hotspot-x="39" hotspot-y="39"/>
+    <matrix columns = "12" rows="1" separation="1">
+        <region name="Cards" left="0" top="0" right="37" bottom="37" hotspot-x="0" hotspot-y="0"/>
+    </matrix>
+</texture-regions>

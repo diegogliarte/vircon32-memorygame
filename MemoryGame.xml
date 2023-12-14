@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="Memory Game" version="1.0"/>
+    <binary path="obj/MemoryGame.vbin"/>
+    <textures>
+        <texture path="obj/MainTexture.vtex"/>
+    </textures>
+    <sounds>
+        <sound path="obj/CardFlip.vsnd"/>
+        <sound path="obj/SoundWin.vsnd"/>
+        <sound path="obj/Correct.vsnd"/>
+        <sound path="obj/Fail.vsnd"/>
+    </sounds>
+</rom-definition>
